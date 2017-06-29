@@ -1,0 +1,15 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "The subscription module for Rocket Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Joshua Blair",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "underscore": "^1.8.3"
+  }
+}
